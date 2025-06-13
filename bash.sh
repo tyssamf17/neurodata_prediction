@@ -27,4 +27,4 @@ pip install tensorflow scikit-learn pandas matplotlib seaborn xgboost catboost s
 
 # Lanzar la app
 echo "✅ Todo listo. Abriendo tu app Streamlit..."
-streamlit run streamlit_app.py
+
